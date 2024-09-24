@@ -33,7 +33,6 @@
 .idea/**/libraries
 <<<<<<< HEAD
 build/
-*.gradle
 
 =======
 *.gradle
@@ -138,7 +137,6 @@ fabric.properties
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
